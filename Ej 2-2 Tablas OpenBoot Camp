@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ej 2/2 Tablas</title>
+    </head>
+    <body>
+        <h3>Tablas en HTML</h3>
+        <table>
+            <tr>
+                <th>Título</th>
+                <th> Autor</th>
+                <th>Año de publicación</th>
+                <th>Enlace a Amazon</th>
+            </tr>
+            <tr>
+                <td>El alquimista</td>
+                <td>Paulo Coelho</td>
+                <td><a href="https://www.amazon.com/-/es/Paulo-Coelho/dp/0062511408/ref=sr_1_1?keywords=el+alquimista+paulo+coelho+en+espanol&qid=1673016061&sprefix=el+alquimista%2Caps%2C278&sr=8-1">Esto es un enlace externo</a></td>
+            </tr>
+        </table>
+    </body>
+</html>
