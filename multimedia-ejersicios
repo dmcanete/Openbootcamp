@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ejercicio-juegos</title>
+    </head>
+    <body>
+        <h1>Aprendiendo a utilizar imágenes</h1>
+        <img src="multimedia/of-us.jpeg" alt="us HTML" width="300" height="300" />
+            
+        <h1>Aprendiendo a utilizar los vídeos"</h1>
+        <video width="300" height="300" controls autoplay muted loop>
+            <source src="multimedia/nicki.mp4" type="video/mp4" />
+        </video>
+
+        <h1>Aprendiendo a utilizar los audios"</h1>
+        <audio controls autoplay loop>
+            <source src="multimedia/efect.mp3" type="audio/mp3" />
+        </audio>
+    </body>
+</html>
