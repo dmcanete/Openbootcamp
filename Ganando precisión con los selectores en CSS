@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ganando precisión con los selectores en CSS""</title>
+</head>
+<body>
+    <H1>Lista de la compra</H1>
+    <diz class="titulo" encabezado></diz>
+    <div>
+        <h4>Artículos de la compra</h4>
+        <style>
+            html{
+                padding: 15px;
+            }
+            .Elemento1{
+                color: red;
+    
+            }
+        </style>
+        <ul>
+            <li style="color: red">Elemento 1- Leche</li>
+            <li>Elemento 2- Pan</li>
+            <li>Elemento 3- Azucar</li>
+            <li>Elemento 4- Papasfritas</li>
+            <li>Elemento 5- Carne</li>
+        </ul>
+    </div>
+    <div>
+        <h4>Supermercados</h4>
+        <ol>
+            <li style="color: red">Elemento-1- Chino</li>
+            <li>Elemento-2- Carrefour</li>
+            <li>Elemento-3- Dia %</li>
+            <li>Elemento-4- COTO</li>
+            <li>Elemento-5- Chango Mas</li>
+        </ol>
+    </div>
+
+</body>
+</html>
